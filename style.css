@@ -1,0 +1,13 @@
+#container {
+  position: relative;
+}
+
+#chatwindow {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: red;
+  width: 300px;
+  height: 450px;
+}
